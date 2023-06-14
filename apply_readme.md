@@ -96,3 +96,8 @@ My apologies for the misunderstanding. Let's revise and continue the plan:
 - Author of various GO/Rust libraries
 - GitHub https://github.com/FrontMage
 - Email xbgxwh@outlook.com
+
+**Windy34-Product Manager/UI Designer**
+- Product Manager of Tencent, Kwai and so on
+- Director of Design and Operation of Buidler DAO…
+- Product Manager of Gabby World…
