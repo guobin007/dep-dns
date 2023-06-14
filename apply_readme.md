@@ -43,37 +43,37 @@ My apologies for the misunderstanding. Let's revise and continue the plan:
 **Blockchain**
 
 - On-chain Development
-   - [x] [Domain Name Registration](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L319) (`fn register_domain()`)
-   - [x] [Transfer Domain Ownership](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L343) (`fn transfer_domain()`)
-   - [x] [Update Domain Registration Details](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L376) (`fn update_domain_details()`)
-   - [x] [Renew Domain Registration](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L406) (`fn renew_domain_registration()`)
-   - [x] [Cancel Domain Name](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L429) (`fn cancel_domain_name()`)
+   - [ ] [Domain Name Registration](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L319) (`fn register_domain()`)
+   - [ ] [Transfer Domain Ownership](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L343) (`fn transfer_domain()`)
+   - [ ] [Update Domain Registration Details](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L376) (`fn update_domain_details()`)
+   - [ ] [Renew Domain Registration](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L406) (`fn renew_domain_registration()`)
+   - [ ] [Cancel Domain Name](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L429) (`fn cancel_domain_name()`)
 
 - DNS Record Management
-   - [x] [Add New DNS Record](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L450) (`fn add_dns_record()`)
-   - [x] [Update Existing DNS Records](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L475) (`fn update_dns_record()`)
-   - [x] [Delete Old DNS Records](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L500) (`fn delete_dns_record()`)
+   - [ ] [Add New DNS Record](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L450) (`fn add_dns_record()`)
+   - [ ] [Update Existing DNS Records](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L475) (`fn update_dns_record()`)
+   - [ ] [Delete Old DNS Records](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L500) (`fn delete_dns_record()`)
 
 **On-chain and Off-chain Interaction**
 
 - DNS Resolver
-   - [x] [Query DNS Records From Blockchain](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L525) (`fn query_dns_record()`)
-   - [x] [Caches Frequently Accessed DNS Records](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L550) (`fn cache_dns_record()`)
-   - [x] [Invalidate Stale Cache Entries](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L575) (`fn invalidate_cache_entries()`)
+   - [ ] [Query DNS Records From Blockchain](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L525) (`fn query_dns_record()`)
+   - [ ] [Caches Frequently Accessed DNS Records](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L550) (`fn cache_dns_record()`)
+   - [ ] [Invalidate Stale Cache Entries](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L575) (`fn invalidate_cache_entries()`)
 
 **Off-chain Development**
 
 - Edge DNS Resolution
-   - [x] [Perform Edge DNS Resolution](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L600) (`fn perform_edge_dns_resolution()`)
-   - [x] [Real-time On-chain Data Synchronization](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L625) (`fn sync_on_chain_data()`)
+   - [ ] [Perform Edge DNS Resolution](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L600) (`fn perform_edge_dns_resolution()`)
+   - [ ] [Real-time On-chain Data Synchronization](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L625) (`fn sync_on_chain_data()`)
 
 - Edge DNS Service
-   - [x] [Edge DNS Service Deployment](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L650) (`fn deploy_edge_dns_service()`)
-   - [x] [Edge DNS Service Configuration](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L675) (`fn configure_edge_dns_service()`)
+   - [ ] [Edge DNS Service Deployment](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L650) (`fn deploy_edge_dns_service()`)
+   - [ ] [Edge DNS Service Configuration](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L675) (`fn configure_edge_dns_service()`)
 
 - User Interface
-   - [x] [Edge DNS Service Management](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L700) (`fn manage_edge_dns_service()`)
-   - [x] [DNS Query Log](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L725) (`fn dns_query_log()`)
+   - [ ] [Edge DNS Service Management](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L700) (`fn manage_edge_dns_service()`)
+   - [ ] [DNS Query Log](https://github.com/AegisResolve/hackathon-2023-summer/blob/main/teams/AegisResolve/src/aegisresolve-node/pallets/dns/src/lib.rs#L725) (`fn dns_query_log()`)
 
 
 ## 黑客松期间所完成的事项 (2023年7月4日上午11:59初审前提交)
