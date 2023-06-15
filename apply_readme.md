@@ -31,10 +31,10 @@ Our project introduces several groundbreaking features:
 Technically, AegisResolve combines blockchain technology with a distributed network of DEP nodes to build a decentralized DNS resolution system. It leverages edge computing to improve DNS query handling and integrates advanced encryption technology to secure DNS data. These features collectively result in a DNS resolution service that is secure, efficient, and transparent, democratizing the way we interact with the internet.
 
 ### Technology Architecture
-![image-20220622110833152](./docs/pmail.jpg)
+![AegisResolve](./AegisResolve.jpg)
 ### Details
-- [Pitch Deck](https://drive.google.com/file/d/1HFgSADwxMFUme_u90iU-oH-VvUX5iKMG/view?usp=sharing)
-- [Demo Video](https://drive.google.com/file/d/1n3--UUmXieym3vKpVNpgj1txyoQ4WbGl/view)
+- [Pitch Deck](https://drive.google.com)
+- [Demo Video](https://drive.google.com)
 
 My apologies for the misunderstanding. Let's revise and continue the plan:
 
