@@ -1,6 +1,6 @@
 ## basic information
 
-Project name: DomainChain  
+Project name: D-DNS  
 
 Project approval date (month and year): June 2023
 
