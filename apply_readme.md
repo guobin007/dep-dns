@@ -18,7 +18,7 @@ Existing DNS resolution services are failing to address three major pain points:
 - Lack of transparency and user control: Users must trust third-party service providers to handle their DNS queries accurately and securely, giving them little control over their internet browsing experience. 
 
 ### Introduction
-AegisResolve is an innovative project designed to overcome these challenges by leveraging blockchain technology and a distributed network of DEP nodes. By decentralizing DNS resolution services, AegisResolve empowers users to interact with the Internet safely, efficiently, and reliably. 
+D-DNS is an innovative project designed to overcome these challenges by leveraging blockchain technology and a distributed network of DEP nodes. By decentralizing DNS resolution services, D-DNS empowers users to interact with the Internet safely, efficiently, and reliably. 
 
 Our project introduces several groundbreaking features: 
 
@@ -28,10 +28,10 @@ Our project introduces several groundbreaking features:
 - Edge DNS Resolution: Incorporates edge computing to speed up DNS resolution and provide users with accurate and unfiltered DNS resolution with minimal latency.
 - Immutable Domain Registration: Guarantees the immutability of domain names on the blockchain, providing a stable and reliable domain registration system.
 
-Technically, AegisResolve combines blockchain technology with a distributed network of DEP nodes to build a decentralized DNS resolution system. It leverages edge computing to improve DNS query handling and integrates advanced encryption technology to secure DNS data. These features collectively result in a DNS resolution service that is secure, efficient, and transparent, democratizing the way we interact with the internet.
+Technically, D-DNS combines blockchain technology with a distributed network of DEP nodes to build a decentralized DNS resolution system. It leverages edge computing to improve DNS query handling and integrates advanced encryption technology to secure DNS data. These features collectively result in a DNS resolution service that is secure, efficient, and transparent, democratizing the way we interact with the internet.
 
 ### Technology Architecture
-![AegisResolve](./AegisResolve.jpg)
+![D-DNS](./AegisResolve.jpg)
 ### Details
 - [Pitch Deck](https://drive.google.com)
 - [Demo Video](https://drive.google.com)
