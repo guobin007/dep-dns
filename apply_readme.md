@@ -6,7 +6,7 @@ Project approval date (month and year): June 2023
 
 ## Project overall introduction
 ### Logo
-![DomainChain-logo](./DomainChain-logo.png)
+![D-DNS-Logo.jpeg](./D-DNS-Logo.jpeg)
 
 ### Background
 The Internet today is increasingly vulnerable to censorship, surveillance, and attacks. The centralization of Domain Name System (DNS) services has made it a prime target for hackers and other malicious entities. The result is an alarming number of DNS spoofing incidents, Distributed Denial of Service (DDoS) attacks, and instances of censorship, among other security threats. 
